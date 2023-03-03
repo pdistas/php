@@ -1,0 +1,16 @@
+
+Erro de autenticação - possibilidades
+
+a) Muitas vezes é necessário desabilitar o antivirus e/ou firewall para funcionar.
+
+b) Liberar serviço ssl no php admin
+
+c) Desde o final do ano passado (2014) o Google exige um mecanismo de autenticação mais seguro (XOAuth2) em vários serviços. Isto inclui o Gmail.
+
+Pode ser este o erro que você está recebendo. Para que funcione você deve habilitar a opção "Permitir que aplicativos menos seguros acessem sua conta".
+
+Faça login em sua conta e acesse o endereço: https://www.google.com/settings/security/lesssecureapps
+
+Você pode obter mais informações sobre isto neste link: https://support.google.com/mail/answer/78754
+
+

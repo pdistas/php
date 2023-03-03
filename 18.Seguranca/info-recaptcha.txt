@@ -1,0 +1,18 @@
+--> Para usar o recaptcha do Google (não sou um robô)
+
+Toda a documentação para uso dessa API está em: https://developers.google.com/recaptcha
+
+No link https://www.google.com/recaptcha/admin/create, você irá:
+
+ -  Informar uma etiqueta (identificador do site para o qual irá utilizar o recurso)
+ -  Selecionar o tipo de recaptcha que deseja utilizar
+ -  Informar o domínio (localhost ou o IP do servidor do cotil, por ex)
+ -  Informar o email dos proprietários do site
+ -  Aceitar os termos de serviço
+ -  Enviar
+
+ Na tela seguinte serão fornecidas as chaves que deverão ser colocadas no seu código, conforme comentado em Exemplo5.html e cadastrar.php.
+
+ Pronto, você já tem um recaptcha funcionando.
+
+ https://br.godaddy.com/blog/o-que-e-recaptcha-e-como-funciona/

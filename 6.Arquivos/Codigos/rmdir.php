@@ -1,0 +1,2 @@
+<?php
+rmdir('./teste1');

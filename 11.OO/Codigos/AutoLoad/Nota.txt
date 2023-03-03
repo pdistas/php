@@ -1,0 +1,10 @@
+Oi pessoal, tudo bem?
+
+Nesta aula, no exemplo-01.php, os professores apresentam a função __autoload(), muito usada para configurar o autoload de classes. Entretanto, essa função foi depreciada na versão 7.2 do PHP, o que pode gerar um erro em seu código
+O mais recomendado é que usemos a função spl_autoload_register(), que é explicada pelos professores no exemplo-02.php
+
+Segue alguns links para consulta:
+https://secure.php.net/manual/pt_BR/function.autoload.php
+https://secure.php.net/manual/pt_BR/function.spl-autoload-register.php
+
+Bons estudos :)

@@ -1,0 +1,14 @@
+MVC - model / view / controller
+
+
+view - index.php - visualização
+
+controller - fluxo - AlunoController.php
+
+model - representa o BD - Aluno.php
+        operações de BD - AlunoDAO.php
+
+
+configuração:
+   Database.php - classe para conexão com o BD
+   config.php - classe para autoload das classes usadas

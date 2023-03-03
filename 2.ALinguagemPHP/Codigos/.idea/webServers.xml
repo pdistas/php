@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a6ebf6b-e1de-4d37-adff-3d3517eb43ea" name="DAWIII" url="http://143.106.241.1">
+        <fileTransfer host="143.106.241.1" port="1609" rootFolder="/var/www/simone" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1609" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

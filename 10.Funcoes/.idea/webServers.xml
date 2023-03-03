@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef20ebd1-0b16-4246-85b4-0c6acffa4244" name="Simone" url="http://143.106.241.1">
+        <fileTransfer host="143.106.241.1" port="1609" rootFolder="/var/www/simone" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1609" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

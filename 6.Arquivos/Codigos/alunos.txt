@@ -1,0 +1,28 @@
+RA: 12345
+Nome: Simone Berbert
+Curso: Informática
+
+RA: 54321
+Nome: Maria Antonieta
+Curso: Informática
+
+RA: 98765
+Nome: Pedro Cabral
+Curso: Edificações
+
+RA: 56789
+Nome: João Sexto
+Curso: Qualidade
+
+RA: 
+Nome: 
+Curso: 
+
+RA: 9999
+Nome: Ana Maria
+Curso: Informática
+
+RA: 123
+Nome: Simone
+Curso: Informática
+

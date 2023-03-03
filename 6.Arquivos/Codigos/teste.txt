@@ -1,0 +1,4 @@
+Este arquivo foi criado<br>
+apenas para testar as<br>
+<b>funções de manipulação de arquivos</b><br>
+do PHP.<br><br><hr>Criado por: Simone<br><hr>Atualizado por: Alunos<br>
